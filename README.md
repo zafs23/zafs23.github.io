@@ -17,7 +17,7 @@ Now, while I am learning about Agile methods, I learned that this is how softwar
 I have done most of my work in Java. I also know C a little.
 
 ```markdown
-I am listting some projects I did so far:
+I am listing some projects I did so far:
 
 # Single Linked List implementation and testing
 # Double Linked List implementation and testing
