@@ -16,7 +16,7 @@ CS121 was easy for me but I learned a lot. I mostly enjoyed CS221. The course co
 Now, while I am learning about Agile methods, I learned that this is how software development should work, testing while building. 
 
 ```markdown
-I am listting some project so far I did:
+I am listting some projects I did so far:
 
 # Single Linked List implementation and testing
 # Double Linked List implementation and testing
