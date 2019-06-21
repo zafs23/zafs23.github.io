@@ -1,7 +1,8 @@
 
 ## Hi!
 
-Welcome to my page :smile:
+Welcome to my page :smile: 
+
 I am a sophmore in Boise State University. I like coding and in my leisure I like to paint.
 
 ### My Programming Journey
