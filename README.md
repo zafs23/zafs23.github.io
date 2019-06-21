@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/zafs23/zafs23.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Hi!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to my page :smile:
+I am a sophmore in Boise State University. I like coding and in my leisure I like to paint.
 
-### Markdown
+### My Programming Journey
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My first major was in Materials and Metallurgical Engineering. Even though I liked my major I knew something was missing. I started coding by myself I when I was took an introductory course on computer programming. I did every exercise from my textbook and felll in love with coding.
+After that I decided to change my major and swtich to Computer Science.
+I have take CS121, CS221, CS150. I am taking CS250, CS271 right now. 
+CS121 was easy for me but I learned a lot. I mostly enjoyed CS221. The course content was so much fun. I loved the way linked lists work and the idea of writing tests before writing the code blew my mind. 
+Now, while I am learning about Agile methods, I learned that this is how software development should work, testing while building. 
 
 ```markdown
-Syntax highlighted code block
+I am listting some project so far I did:
 
-# Header 1
-## Header 2
-### Header 3
+# Single Linked List implementation and testing
+# Double Linked List implementation and testing
+# Parsing files
+# GUI Library
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zafs23/zafs23.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Painting
+During my leisure time I like to paint. My painting medium is watercolor. I mostly paint landscapes. During summer time I like to go to places and be close to nature.
