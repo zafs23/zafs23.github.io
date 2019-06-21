@@ -14,6 +14,7 @@ After that I decided to change my major and swtich to Computer Science.
 I have take CS121, CS221, CS150. I am taking CS250, CS271 right now. 
 CS121 was easy for me but I learned a lot. I mostly enjoyed CS221. The course content was so much fun. I loved the way linked lists work and the idea of writing tests before writing the code blew my mind. 
 Now, while I am learning about Agile methods, I learned that this is how software development should work, testing while building. 
+I have done most of my work in Java. I also know C a little.
 
 ```markdown
 I am listting some projects I did so far:
@@ -22,8 +23,11 @@ I am listting some projects I did so far:
 # Double Linked List implementation and testing
 # Parsing files
 # GUI Library
+# Circuit Tracing 
 
 ```
+### Research Interest
+I am mostly interested in Machine Learning and Artificial Intelligence. I would love to work in this field in future.
 
 ### Painting
 During my leisure time I like to paint. My painting medium is watercolor. I mostly paint landscapes. During summer time I like to go to places and be close to nature.
